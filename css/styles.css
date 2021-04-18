@@ -1,0 +1,129 @@
+@import "./reset.css";
+@import "./base.css";
+@import "./layout.css";
+@import "./theme.css";
+
+/* 
+@media (min-width: 480px) and (max-width: 768px) {
+    body {
+      box-sizing: border-box;
+      width: 480px;
+      margin-left: 5%;
+    }
+    .sectionA {
+      background-color: red;
+      height: 75px;
+    }
+    .sectionB {
+      background-color: blue;
+      height: 150px;
+    }
+    .sectionC {
+      background-color: red;
+      height: 125px;
+    }
+    .sectionD {
+      background-color: black;
+      height: 125px;
+    }
+    .sectionE {
+      background-color: rgb(33, 114, 70);
+      height: 250px;
+      width: 240px;
+      float: left;
+    }
+    .sectionF {
+      background-color: rgb(171, 173, 39);
+      height: 250px;
+      width: 240px;
+      float: right;
+    }
+  
+    .sectionG {
+      background-color: rgb(194, 216, 142);
+      height: 250px;
+      width: 240px;
+      float: left;
+    }
+    .sectionH {
+      background-color: rgb(88, 98, 182);
+      height: 250px;
+      width: 240px;
+      float: right;
+    }
+  
+    footer {
+      background-color: blue;
+      clear: both;
+      height: 80px;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    body {
+      box-sizing: border-box;
+      width: 960px;
+      margin-left: 15%;
+    }
+    .sectionA {
+      background-color: red;
+      height: 100px;
+    }
+  
+    .sectionB {
+      background-color: blue;
+      height: 600px;
+      width: 200px;
+      float: left;
+      clear: left;
+    }
+    .sectionC {
+      background-color: brown;
+      height: 200px;
+      width: 380px;
+      float: right;
+    }
+    .sectionD {
+      background-color: rgb(48, 32, 32);
+      height: 200px;
+      width: 380px;
+      float: left;
+    }
+    .sectionE {
+      background-color: red;
+      width: 190px;
+      height: 250px;
+      float: left;
+    }
+    .sectionF {
+      background-color: rgb(0, 255, 191);
+      width: 190px;
+      height: 250px;
+      float: right;
+    }
+    .mainSection {
+      height: 250px;
+      width: 760px;
+      float: right;
+    }
+  
+    .sectionG {
+      background-color: darkkhaki;
+      width: 190px;
+      height: 250px;
+      float: right;
+    }
+    .sectionH {
+      background-color: darkslateblue;
+      width: 190px;
+      height: 250px;
+      float: right;
+    }
+  
+    footer {
+      background-color: firebrick;
+      float: right;
+      width: 760px;
+      height: 150px;
+    }
+  } */

@@ -1,0 +1,84 @@
+@media (max-width: 768px) {
+  .sectionA {
+    height: 75px;
+  }
+  .sectionB {
+    height: 150px;
+  }
+  .sectionC {
+    height: 125px;
+  }
+  .sectionD {
+    height: 125px;
+  }
+  .sectionE {
+    height: 250px;
+    width: 240px;
+    float: left;
+  }
+  .sectionF {
+    height: 250px;
+    width: 240px;
+    float: right;
+  }
+
+  .sectionG {
+    height: 250px;
+    width: 240px;
+    float: left;
+  }
+  .sectionH {
+    height: 250px;
+    width: 240px;
+    float: right;
+  }
+}
+
+@media (min-width: 769px) {
+  .sectionA {
+    height: 100px;
+  }
+
+  .sectionB {
+    height: 600px;
+    width: 200px;
+    float: left;
+    clear: left;
+  }
+  .sectionC {
+    height: 200px;
+    width: 380px;
+    float: right;
+  }
+  .sectionD {
+    height: 200px;
+    width: 380px;
+    float: left;
+  }
+  .sectionE {
+    width: 190px;
+    height: 250px;
+    float: left;
+  }
+  .sectionF {
+    width: 190px;
+    height: 250px;
+    float: right;
+  }
+  .mainSection {
+    height: 250px;
+    width: 760px;
+    float: right;
+  }
+
+  .sectionG {
+    width: 190px;
+    height: 250px;
+    float: right;
+  }
+  .sectionH {
+    width: 190px;
+    height: 250px;
+    float: right;
+  }
+}
