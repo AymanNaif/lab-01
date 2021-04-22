@@ -4,7 +4,7 @@
 @import "./theme.css"; */
 
 /* labtop Media Start here */
-@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) {
+@media (min-width: 1200px) {
   main {
     width: 960px;
     margin-left: 15%;
@@ -74,7 +74,7 @@
 
 /* Tablet Media Start here */
 
-@media (min-device-width: 800px) and (max-device-width: 1200px) {
+@media (min-width: 800px) and (max-width: 1200px) {
   main {
     width: 600px;
     margin-left: 5%;
@@ -142,7 +142,7 @@
   }
 }
 /* Mobile Media Start here */
-@media (max-device-width: 799px) {
+@media (max-width: 799px) {
   main {
     width: 300px;
     margin-left: 5%;
